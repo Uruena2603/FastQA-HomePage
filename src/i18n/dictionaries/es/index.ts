@@ -7,6 +7,7 @@ import { legal } from './legal'
 import { pricing } from './pricing'
 import { analyzer } from './analyzer'
 import { seo } from './seo'
+import { team } from './team'
 
 export const es = {
   common,
@@ -18,4 +19,5 @@ export const es = {
   pricing,
   analyzer,
   seo,
+  team,
 }

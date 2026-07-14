@@ -225,6 +225,8 @@ Pensado para ingeniería clásica y apps *vibe-coded*:
 
 Ingenieros de la **Universidad Católica de Pereira** (Ingeniería de Sistemas y Telecomunicaciones) que impulsan el producto, la automatización, la entrega y el aseguramiento de seguridad detrás de las **garantías y la certificación FastQA**.
 
+También viven en la landing: sección **`#team`** ([`src/components/Team.tsx`](./src/components/Team.tsx) · datos en [`src/data/team.ts`](./src/data/team.ts) · copy ES/EN en `src/i18n/dictionaries/*/team.ts`).
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
@@ -245,9 +247,9 @@ Ingenieros de la **Universidad Católica de Pereira** (Ingeniería de Sistemas y
     <td width="50%" valign="top" align="center">
       <img src="https://avatars.githubusercontent.com/u/111206866?v=4" width="120" height="120" alt="Nicolás Ceballos Brito" /><br />
       <h3>Nicolás Ceballos Brito</h3>
-      <p><strong>Ingeniería de producto y calidad en el SDLC</strong></p>
+      <p><strong>CTO · Prosavis · Ingeniería de producto y calidad en el SDLC</strong></p>
       <p align="left">
-        Full-stack / cross-platform y AI engineer trainee. Semillero de investigación <strong>Testing Automatizado</strong> (UCP). App Lead en Prosavis. Portfolio: <a href="https://nicolasceballosbrito.com">nicolasceballosbrito.com</a>.
+        Full-stack / cross-platform y AI. <strong>CTO de Prosavis</strong> (desarrollo, estrategia, roadmap y partnerships). Semillero <strong>Testing Automatizado</strong> (UCP). Portfolio: <a href="https://nicolasceballosbrito.com">nicolasceballosbrito.com</a>.
       </p>
       <p align="left"><em>Aporte a certificación:</em> prácticas de QA en el ciclo de vida, CI/CD y liderazgo de producto orientado a releases confiables.</p>
       <p>
@@ -301,7 +303,7 @@ Ingenieros de la **Universidad Católica de Pereira** (Ingeniería de Sistemas y
 |---|:---:|:---:|:---:|:---:|
 | Automatización de pruebas (Cypress/Selenium/E2E) | ●●● | ●● | ●● | ● |
 | Calidad en SDLC / producto | ●● | ●●● | ●●● | ●● |
-| Entrega / App Lead | ●● | ●●● | ●●● | ●● |
+| Entrega / liderazgo de producto | ●● | ●●● (CTO) | ●●● | ●● |
 | Seguridad / Red Team / bug bounty | ● | ● | ● | ●●● |
 | CI/CD y pipelines | ●● | ●●● | ●● | ●●● |
 | Certificación / informe / release checklist | ●●● | ●● | ●● | ●●● |

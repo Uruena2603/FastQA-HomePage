@@ -7,6 +7,7 @@ import AnalyzerTeaser from '../components/AnalyzerTeaser'
 import PricingTeaser from '../components/PricingTeaser'
 import Services from '../components/Services'
 import About from '../components/About'
+import Team from '../components/Team'
 import Method from '../components/Method'
 import Testimonials from '../components/Testimonials'
 import FAQ from '../components/FAQ'
@@ -36,6 +37,7 @@ export default function Home() {
         <PricingTeaser />
         <Services />
         <About />
+        <Team />
         <Method />
         <Testimonials />
         <FAQ />

@@ -3,6 +3,7 @@ export const nav = {
   pricing: 'Pricing',
   services: 'Services',
   about: 'About',
+  team: 'Team',
   faq: 'FAQ',
   contact: 'Contact',
   primaryCta: 'Analyze now',

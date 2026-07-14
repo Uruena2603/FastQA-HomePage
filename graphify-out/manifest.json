@@ -1,176 +1,176 @@
 {
   "eslint.config.js": {
-    "mtime": 1784000319.608104,
+    "mtime": 1784002188.387222,
     "ast_hash": "b213c862ff6d7826eab11c3044d3925b",
     "semantic_hash": ""
   },
   "package.json": {
-    "mtime": 1784000182.3712075,
+    "mtime": 1784002188.4265482,
     "ast_hash": "9192ee30d2ec29413e8a1b1bdbe9566d",
     "semantic_hash": ""
   },
   "src/App.tsx": {
-    "mtime": 1784001783.4379833,
+    "mtime": 1784002188.428746,
     "ast_hash": "e0fcab60f86a35d36d05db0b2c687250",
     "semantic_hash": ""
   },
   "src/components/About.tsx": {
-    "mtime": 1784000887.2038276,
+    "mtime": 1784002188.430752,
     "ast_hash": "0eb62f4cdbe351f5d63ed168d1ade730",
     "semantic_hash": ""
   },
   "src/components/Contact.tsx": {
-    "mtime": 1784000920.275483,
+    "mtime": 1784002188.4333425,
     "ast_hash": "15f0f9206d22117f94d8de515f8b6b44",
     "semantic_hash": ""
   },
   "src/components/FAQ.tsx": {
-    "mtime": 1784000915.8268204,
+    "mtime": 1784002188.4333425,
     "ast_hash": "2b15cf1af08e40fbad1cf6fb7b66afa4",
     "semantic_hash": ""
   },
   "src/components/Footer.tsx": {
-    "mtime": 1784002002.673758,
+    "mtime": 1784002188.4357393,
     "ast_hash": "b74907e62e488be3dd2f4d2a5cf7263a",
     "semantic_hash": ""
   },
   "src/components/Hero.tsx": {
-    "mtime": 1784002002.4669788,
+    "mtime": 1784002188.4387581,
     "ast_hash": "48923e8fd19a297e177c6812afdc97a1",
     "semantic_hash": ""
   },
   "src/components/Logo.tsx": {
-    "mtime": 1784000559.6549528,
+    "mtime": 1784002188.4400485,
     "ast_hash": "e49c0ac5860224f4138b234085ccf8f5",
     "semantic_hash": ""
   },
   "src/components/Method.tsx": {
-    "mtime": 1784000891.0926032,
+    "mtime": 1784002188.4410799,
     "ast_hash": "c7da77188296bc05e0991b895168edcc",
     "semantic_hash": ""
   },
   "src/components/Navbar.tsx": {
-    "mtime": 1784001989.278557,
+    "mtime": 1784002188.442209,
     "ast_hash": "afccb809013cba87865508e85f32f6b0",
     "semantic_hash": ""
   },
   "src/components/SectionWrapper.tsx": {
-    "mtime": 1783998842.9855585,
+    "mtime": 1784002188.44324,
     "ast_hash": "9a45519644973bc0b7dd200e4b74cc1c",
     "semantic_hash": ""
   },
   "src/components/SeoHelmet.tsx": {
-    "mtime": 1783998837.3402042,
+    "mtime": 1784002188.4445455,
     "ast_hash": "9722868c67a022365e4b09733dfcaca2",
     "semantic_hash": ""
   },
   "src/components/Services.tsx": {
-    "mtime": 1784001998.7270355,
+    "mtime": 1784002188.4456024,
     "ast_hash": "9a00f49d86e84641a735d77bf1ed6592",
     "semantic_hash": ""
   },
   "src/components/Testimonials.tsx": {
-    "mtime": 1784000905.3391297,
+    "mtime": 1784002188.4466002,
     "ast_hash": "3643fd3903be77101a30c9b40bde22a1",
     "semantic_hash": ""
   },
   "src/components/Trust.tsx": {
-    "mtime": 1784000881.3334446,
+    "mtime": 1784002188.448093,
     "ast_hash": "9acdb2985389c7acc1daf2f757ab48d5",
     "semantic_hash": ""
   },
   "src/components/ui/Button.tsx": {
-    "mtime": 1784000585.0122988,
+    "mtime": 1784002188.461936,
     "ast_hash": "a864074989b77e20d1b664f994e5bba1",
     "semantic_hash": ""
   },
   "src/components/ui/ThemeToggle.tsx": {
-    "mtime": 1784000967.1644766,
+    "mtime": 1784002188.4630222,
     "ast_hash": "659ad0d80442bc99b51e60e2c07becb1",
     "semantic_hash": ""
   },
   "src/constants/seo.ts": {
-    "mtime": 1783998811.27032,
+    "mtime": 1784002188.4650648,
     "ast_hash": "edd3f2181b5f13e33c4378eb9426a86a",
     "semantic_hash": ""
   },
   "src/constants/social.ts": {
-    "mtime": 1783998811.9151845,
+    "mtime": 1784002188.4650648,
     "ast_hash": "18c74a1f10590870f1535ed5f95e3bb7",
     "semantic_hash": ""
   },
   "src/context/ThemeContext.tsx": {
-    "mtime": 1783998835.5653372,
+    "mtime": 1784002188.469591,
     "ast_hash": "10c2e1111ae03a027c62817c17fbdc92",
     "semantic_hash": ""
   },
   "src/lib/structured-data.ts": {
-    "mtime": 1784000963.371356,
+    "mtime": 1784002188.506794,
     "ast_hash": "c729ad929cd323bccbc739ea89fcf50c",
     "semantic_hash": ""
   },
   "src/main.tsx": {
-    "mtime": 1783998921.8238926,
+    "mtime": 1784002188.5073013,
     "ast_hash": "c6d7217bcfd6e675def6c8f5ba99b973",
     "semantic_hash": ""
   },
   "src/pages/Home.tsx": {
-    "mtime": 1784001989.5055044,
-    "ast_hash": "0ba470f45bc464b5a2f14a3e164ad205",
+    "mtime": 1784003125.4502568,
+    "ast_hash": "298f1654bc978e2e178c077dae906e64",
     "semantic_hash": ""
   },
   "src/pages/Legal.tsx": {
-    "mtime": 1784000968.7603037,
+    "mtime": 1784002188.5130322,
     "ast_hash": "4bcc2d2253f029cc7755fe50d5fe3aed",
     "semantic_hash": ""
   },
   "src/types/index.ts": {
-    "mtime": 1783998809.2171433,
+    "mtime": 1784002188.51946,
     "ast_hash": "8a0ffb8fc0a599ce48f4a02107091116",
     "semantic_hash": ""
   },
   "src/vite-env.d.ts": {
-    "mtime": 1783998921.9306865,
+    "mtime": 1784002188.5205557,
     "ast_hash": "8f68c27c3fc38817b2726b20e2d4f1ee",
     "semantic_hash": ""
   },
   "tsconfig.app.json": {
-    "mtime": 1783998740.0428479,
+    "mtime": 1784002188.5215604,
     "ast_hash": "c8e0ba7b218f262fad0d92acfc0c718a",
     "semantic_hash": ""
   },
   "tsconfig.json": {
-    "mtime": 1783998738.9019299,
+    "mtime": 1784002188.5225792,
     "ast_hash": "852c3a5df14a4b43ac28e9554ebedf4a",
     "semantic_hash": ""
   },
   "tsconfig.node.json": {
-    "mtime": 1783998740.29513,
+    "mtime": 1784002188.5225792,
     "ast_hash": "1a889bd86263ae77f34b65b3d5a43892",
     "semantic_hash": ""
   },
   "vercel.json": {
-    "mtime": 1783998745.0455108,
+    "mtime": 1784002188.5225792,
     "ast_hash": "abd07d5b81e7d2c7029cc5611e1ec638",
     "semantic_hash": ""
   },
   "vite.config.ts": {
-    "mtime": 1783998737.488793,
+    "mtime": 1784002188.5237994,
     "ast_hash": "4de893a206a1dbda29e0a82447be51c2",
     "semantic_hash": ""
   },
   "DESIGN_SYSTEM.md": {
-    "mtime": 1784001002.4597104,
+    "mtime": 1784002188.3817143,
     "ast_hash": "07f4716a07dfba2af9f67cf2ccecd438",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1784001014.038947,
-    "ast_hash": "60e8fcf7369f6c38d29ec817dc5bfb74",
+    "mtime": 1784003208.2124212,
+    "ast_hash": "d33d5405a0a5abd23485298cfd910484",
     "semantic_hash": ""
   },
   "index.html": {
-    "mtime": 1784000608.8090277,
+    "mtime": 1784002188.4231198,
     "ast_hash": "0b5e15d384efff6ccb60b67b169da60d",
     "semantic_hash": ""
   },
@@ -255,213 +255,233 @@
     "semantic_hash": ""
   },
   "src/components/react-bits/Aurora.tsx": {
-    "mtime": 1784000220.849166,
-    "ast_hash": "b2c5216c89483615aa25264d3b3a3af8",
+    "mtime": 1784002188.45221,
+    "ast_hash": "92a1290c9fef088d17e47cb830136e97",
     "semantic_hash": ""
   },
   "src/components/react-bits/DecryptedText.tsx": {
-    "mtime": 1784000177.4799027,
-    "ast_hash": "f1d9d3d4de0aa50610da448c6e8340a8",
+    "mtime": 1784002188.4552124,
+    "ast_hash": "949644ddada528a44f47512da9bc2536",
     "semantic_hash": ""
   },
   "src/components/react-bits/LogoLoop.tsx": {
-    "mtime": 1784000177.8327322,
-    "ast_hash": "0ce389200858730abfa495f15fc295bc",
+    "mtime": 1784002188.4567285,
+    "ast_hash": "f36773d7c859ce248ffc9db22078d8db",
     "semantic_hash": ""
   },
   "src/components/react-bits/Particles.tsx": {
-    "mtime": 1784000214.3704748,
-    "ast_hash": "c4bbbae563f2eaedc9307ae52dce7955",
+    "mtime": 1784002188.4587407,
+    "ast_hash": "f3dcbd46719f9c91c4180db6259dbf33",
     "semantic_hash": ""
   },
   "src/components/react-bits/SpotlightCard.tsx": {
-    "mtime": 1784000213.4013965,
-    "ast_hash": "aa01d2580a8406b8708b987d1e856d77",
+    "mtime": 1784002188.459745,
+    "ast_hash": "3acea9f19fb67fbcad782e65c68cda5d",
     "semantic_hash": ""
   },
   "src/constants/assets.ts": {
-    "mtime": 1784000548.0242,
-    "ast_hash": "50bd510825f883239b2eb42e231c4cc1",
+    "mtime": 1784002188.4640546,
+    "ast_hash": "69a0a88d33517ad1a5dc54ae84b44948",
     "semantic_hash": ""
   },
   "src/i18n/LanguageContext.tsx": {
-    "mtime": 1784000856.5977533,
-    "ast_hash": "1ac985a80927f94bc0540307ba540cf4",
+    "mtime": 1784002188.475538,
+    "ast_hash": "7456a211bd383efbc829628aa5ee3d1d",
     "semantic_hash": ""
   },
   "src/i18n/LanguageToggle.tsx": {
-    "mtime": 1784000798.9408908,
-    "ast_hash": "9f3d777aaf1134ca7efee29416266514",
+    "mtime": 1784002188.4765372,
+    "ast_hash": "5d42e19fcb8958f42e20e22126cdf7b6",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/common.ts": {
-    "mtime": 1784000801.2454793,
-    "ast_hash": "c81c9d253081bbc009f56237c83f715c",
+    "mtime": 1784002188.4786246,
+    "ast_hash": "0679f4a25ea352cea170647ad1cf8627",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/faq.ts": {
-    "mtime": 1784001752.6236067,
-    "ast_hash": "c3036224516294c991bbece2d223005a",
+    "mtime": 1784002188.4797995,
+    "ast_hash": "45f9593176a0d37837d4a60ef23afc5e",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/footer.ts": {
-    "mtime": 1784000832.837886,
-    "ast_hash": "71beb0695263ee46c100c84eb8f26384",
+    "mtime": 1784002188.4808812,
+    "ast_hash": "49f069fb62c6f9be3dc85f91c48f1797",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/home.ts": {
-    "mtime": 1784001995.6492455,
-    "ast_hash": "267452c1d4c2a2df1ff578ca058815e6",
+    "mtime": 1784002188.4819937,
+    "ast_hash": "eb2d457f62831196cbe08bf3c4c697e3",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/index.ts": {
-    "mtime": 1784001740.245829,
-    "ast_hash": "d3be7d4aeb380d1feefce1f47c8076f8",
+    "mtime": 1784003127.1909914,
+    "ast_hash": "e189576e3648c0b5b709a332046da7b2",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/legal.ts": {
-    "mtime": 1784000835.259845,
-    "ast_hash": "860c62f0358151a14c9aa7be731f7ee8",
+    "mtime": 1784002188.4841485,
+    "ast_hash": "19ddf15f5620e932833b7885e8e42c7a",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/nav.ts": {
-    "mtime": 1784001971.0712636,
-    "ast_hash": "7ca9f8680ab7bc50180f56cf2a5105ab",
+    "mtime": 1784003128.3110187,
+    "ast_hash": "352c0a0ca274ddffc43382b8bdc04885",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/seo.ts": {
-    "mtime": 1784001743.9138844,
-    "ast_hash": "2e5f73e0caed0d35825e470aedd763c9",
+    "mtime": 1784002188.4886787,
+    "ast_hash": "ec64348db9f15be880e3ffbd55d9732b",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/common.ts": {
-    "mtime": 1784000800.2740095,
-    "ast_hash": "2f7b91486565e11ffca5a6288c448817",
+    "mtime": 1784002188.4920282,
+    "ast_hash": "79ec8128ddbcbb90928829834e1a4984",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/faq.ts": {
-    "mtime": 1784001744.1944287,
-    "ast_hash": "7f4802e78e7f758fe87bf0620023fc56",
+    "mtime": 1784002188.4920282,
+    "ast_hash": "249333c7b2f7fea93b12a2dff885a37b",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/footer.ts": {
-    "mtime": 1784000969.6999562,
-    "ast_hash": "91f455fefee45028c703e9769f2a504f",
+    "mtime": 1784002188.4933991,
+    "ast_hash": "db325a3e63bbb61cbf3904747472f4a4",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/home.ts": {
-    "mtime": 1784001994.6709344,
-    "ast_hash": "8adb8c2bb74feaab6e38fac5f0ed5aaa",
+    "mtime": 1784002188.4944499,
+    "ast_hash": "6bf3c67eee5d99d9009ec3e09363f1a0",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/index.ts": {
-    "mtime": 1784001738.7899282,
-    "ast_hash": "663a0101a6a1dbb14bee9854231ada0c",
+    "mtime": 1784003126.210843,
+    "ast_hash": "c9dda0fc5a8a8e374bd13b9409c43070",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/legal.ts": {
-    "mtime": 1784000834.7622745,
-    "ast_hash": "4e6fa3c0f517bc4e63ec347af2d32671",
+    "mtime": 1784002188.4971244,
+    "ast_hash": "bb4a9fd29bc2e3c3aa7e2054d956f3aa",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/nav.ts": {
-    "mtime": 1784001970.5924585,
-    "ast_hash": "d61819a179f5d04f69ef9ac014beda30",
+    "mtime": 1784003128.2546754,
+    "ast_hash": "283162ea68032b3c565b96bef984f42b",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/seo.ts": {
-    "mtime": 1784001741.5798874,
-    "ast_hash": "008226e4f1bf9aa3fdc08f517edef4d8",
+    "mtime": 1784002188.4993067,
+    "ast_hash": "a45727eea453f4f81d4a00c6f8f7c977",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/index.ts": {
-    "mtime": 1784000839.8888843,
-    "ast_hash": "a03021687392f55ad1ce56d39c52c3e0",
+    "mtime": 1784002188.4993067,
+    "ast_hash": "2b83ac6b83be4e739c071d08e0aac1eb",
     "semantic_hash": ""
   },
   "src/i18n/navItems.ts": {
-    "mtime": 1784001969.6112044,
-    "ast_hash": "c4eadfdd0de81bc575dc2163aebbdb46",
+    "mtime": 1784003127.795948,
+    "ast_hash": "7758f6c9e0d9da6fdaeedf7e56582d84",
     "semantic_hash": ""
   },
   "src/components/pricing/CurrencyToggle.tsx": {
-    "mtime": 1784001267.542969,
-    "ast_hash": "3620a1bee9a7112da2dc82a2beda1b77",
+    "mtime": 1784002188.4491224,
+    "ast_hash": "fb5af026fae1cf26de68eb6a36f676a6",
     "semantic_hash": ""
   },
   "src/components/pricing/ProductCard.tsx": {
-    "mtime": 1784001259.1021013,
-    "ast_hash": "68423f6c5b8c7b1544edb1703e630bda",
+    "mtime": 1784002188.4501307,
+    "ast_hash": "8c1bb29197ff991813ac4f43da074b22",
     "semantic_hash": ""
   },
   "src/context/CurrencyContext.tsx": {
-    "mtime": 1784001388.8710883,
-    "ast_hash": "a2ba6d229921c2dbaf1375807d141a40",
+    "mtime": 1784002188.4665742,
+    "ast_hash": "c396da31703772c8b24dda791d601dd6",
     "semantic_hash": ""
   },
   "src/data/pricing.ts": {
-    "mtime": 1784001710.8868537,
-    "ast_hash": "569f1b1826129e7c0e65214e42e987b7",
+    "mtime": 1784002188.4744997,
+    "ast_hash": "6a94a85e043cc54c07bb59d064fd1b33",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/pricing.ts": {
-    "mtime": 1784001980.1465635,
-    "ast_hash": "618261bda09e1e7eabe07e8672768e49",
+    "mtime": 1784002188.486664,
+    "ast_hash": "855fa5735144a643b5f7901fa85ef3d2",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/pricing.ts": {
-    "mtime": 1784001976.2450194,
-    "ast_hash": "3a15bdd0a9517179f2a9895bdea21765",
+    "mtime": 1784002188.4993067,
+    "ast_hash": "40d9e674bf43c965d0dc82faad980029",
     "semantic_hash": ""
   },
   "src/lib/exchange-rate.ts": {
-    "mtime": 1784001367.356891,
-    "ast_hash": "72dfe06b9381ee3dc193d8f575a3a01d",
+    "mtime": 1784002188.5057933,
+    "ast_hash": "5308212212efad0a5dae4c872f229d81",
     "semantic_hash": ""
   },
   "src/pages/Checkout.tsx": {
-    "mtime": 1784001328.6547184,
-    "ast_hash": "0062f06c6b545e86d89e95bef9c2548a",
+    "mtime": 1784002188.510825,
+    "ast_hash": "108c48ca2729fafc222c016b34aa811d",
     "semantic_hash": ""
   },
   "src/pages/Pricing.tsx": {
-    "mtime": 1784001259.2539861,
-    "ast_hash": "5472b23b22f1c12d6c9a34b885bc9964",
+    "mtime": 1784002188.514038,
+    "ast_hash": "6b6d9806a6ad1bd4b8ecd92adfacecaa",
     "semantic_hash": ""
   },
   "src/pages/ProductDetail.tsx": {
-    "mtime": 1784001278.4733338,
-    "ast_hash": "5e1716b25d4f4599b834ad0f7073a192",
+    "mtime": 1784002188.514038,
+    "ast_hash": "e4e7bf45ac8338a357b6dde0608e7201",
     "semantic_hash": ""
   },
   "src/components/AnalyzerTeaser.tsx": {
-    "mtime": 1784001780.7668738,
-    "ast_hash": "548759df26ae8c96b48c2a8eceda240f",
+    "mtime": 1784002188.4322505,
+    "ast_hash": "7153e17d3ba7470db3bd6bd979606e35",
     "semantic_hash": ""
   },
   "src/data/analyzer-demo.ts": {
-    "mtime": 1784001729.3254626,
-    "ast_hash": "9cf57a4985d07d8fedcdc6ce8581d79d",
+    "mtime": 1784002188.4720557,
+    "ast_hash": "c4900e76627e78347a6bc26750cefd8c",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/en/analyzer.ts": {
-    "mtime": 1784001734.366901,
-    "ast_hash": "718d8809b0db4c0f6774bad4ee6ad8c6",
+    "mtime": 1784002188.4786246,
+    "ast_hash": "7e4a69d4c18c8e5ac0f054e3fe6de1c1",
     "semantic_hash": ""
   },
   "src/i18n/dictionaries/es/analyzer.ts": {
-    "mtime": 1784001734.2467892,
-    "ast_hash": "31fdc64c176b36172c3e91a9edeca503",
+    "mtime": 1784002188.490878,
+    "ast_hash": "610c96145974d785827dec968ba86a4d",
     "semantic_hash": ""
   },
   "src/pages/Analyzer.tsx": {
-    "mtime": 1784001835.0707734,
-    "ast_hash": "76214dc8310a4df1d265271b21a138aa",
+    "mtime": 1784002188.5098126,
+    "ast_hash": "f947eb3ac02264ce56774a10c642193c",
     "semantic_hash": ""
   },
   "src/components/PricingTeaser.tsx": {
-    "mtime": 1784001987.3684208,
-    "ast_hash": "5726b4a892fce62833e86e7b64964b61",
+    "mtime": 1784002188.44324,
+    "ast_hash": "d18886baddee2b4b53bbfe411fd6e8b0",
+    "semantic_hash": ""
+  },
+  "src/components/Team.tsx": {
+    "mtime": 1784003205.327674,
+    "ast_hash": "8b1140add722a1500a222e884e68b93a",
+    "semantic_hash": ""
+  },
+  "src/data/team.ts": {
+    "mtime": 1784003093.022273,
+    "ast_hash": "6fa14b98e6c1886c510d9edc1b4b973d",
+    "semantic_hash": ""
+  },
+  "src/i18n/dictionaries/en/team.ts": {
+    "mtime": 1784003103.5789092,
+    "ast_hash": "54c104282cf633091e32a7c41eda0d38",
+    "semantic_hash": ""
+  },
+  "src/i18n/dictionaries/es/team.ts": {
+    "mtime": 1784003103.486858,
+    "ast_hash": "ca2d5512232e394891aabaf0cf1708d1",
     "semantic_hash": ""
   }
 }
