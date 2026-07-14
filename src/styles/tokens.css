@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Alineados al logo oficial: slate navy + coral */
+  --color-blue-deep: #1A3348;
+  --color-blue: #223E54;
+  --color-blue-mid: #2F5674;
+  --color-blue-soft: #5B7F9C;
+  --color-blue-pale: #E8F0F6;
+  --color-orange: #D55C4D;
+  --color-orange-soft: #E07A6C;
+  --color-orange-ink: #B8473B;
+  --color-navy: #223E54;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-display: 'Space Grotesk', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --ease-spring: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+}
+
+/* ── LIGHT (protagonismo claro, superficies luminosas) ── */
+:root {
+  --color-bg-primary: #F7FAFC;
+  --color-bg-secondary: #E8F1F7;
+  --color-bg-card: #FFFFFF;
+  --color-text-primary: #223E54;
+  --color-text-secondary: #4A6278;
+  --color-text-placeholder: rgba(34, 62, 84, 0.45);
+  --color-text-on-hero: #223E54;
+  --color-border-light: #C5D4E0;
+  --color-nav-bg: rgba(247, 250, 252, 0.92);
+  --color-accent-label: #B8473B;
+  --color-accent-highlight: #223E54;
+  --color-accent-cta: #D55C4D;
+  --color-accent-cta-text: #FFFFFF;
+  --color-btn-secondary-bg: #223E54;
+  --color-btn-secondary-text: #FFFFFF;
+  --color-hero-btn-secondary-border: #223E54;
+  --color-hero-btn-secondary-text: #223E54;
+  --color-hero-btn-secondary-hover: rgb(34 62 84 / 0.08);
+  --color-hero-muted: rgb(34 62 84 / 0.7);
+  --shadow-cta: 0 8px 32px rgb(213 92 77 / 0.35);
+  --gradient-hero: linear-gradient(165deg, #F7FAFC 0%, #E3EEF6 42%, #D0E4F2 78%, #BFD8EA 100%);
+  --gradient-hero-scrim: radial-gradient(ellipse 80% 55% at 50% 38%, rgb(213 92 77 / 0.08) 0%, transparent 65%);
+  --gradient-hero-horizon: linear-gradient(to top, rgba(247, 250, 252, 0.95) 0%, transparent 55%);
+  --gradient-text-accent: linear-gradient(135deg, #D55C4D 0%, #E07A6C 100%);
+  --hero-aurora-1: #2F5674;
+  --hero-aurora-2: #5B7F9C;
+  --hero-aurora-3: #D55C4D;
+  --hero-particle-1: #223E54;
+  --hero-particle-2: #5B7F9C;
+  --hero-particle-3: #D55C4D;
+  --hero-vignette: radial-gradient(ellipse 70% 55% at 50% 40%, transparent 0%, rgb(247 250 252 / 0.35) 72%, rgb(247 250 252 / 0.85) 100%);
+}
+
+/* ── DARK (profundidad tech) ── */
+.dark {
+  --color-bg-primary: #050B14;
+  --color-bg-secondary: #0B1524;
+  --color-bg-card: #101C2C;
+  --color-text-primary: #F1F5F9;
+  --color-text-secondary: #94A3B8;
+  --color-text-placeholder: rgba(241, 245, 249, 0.45);
+  --color-text-on-hero: #F8FAFC;
+  --color-border-light: #1A2D45;
+  --color-nav-bg: rgba(5, 11, 20, 0.92);
+  --color-accent-label: #E07A6C;
+  --color-accent-highlight: #5B7F9C;
+  --color-accent-cta: #D55C4D;
+  --color-accent-cta-text: #FFFFFF;
+  --color-btn-secondary-bg: #2F5674;
+  --color-btn-secondary-text: #FFFFFF;
+  --color-hero-btn-secondary-border: rgb(255 255 255 / 0.8);
+  --color-hero-btn-secondary-text: #FFFFFF;
+  --color-hero-btn-secondary-hover: rgb(255 255 255 / 0.1);
+  --color-hero-muted: rgb(255 255 255 / 0.65);
+  --shadow-cta: 0 8px 32px rgb(213 92 77 / 0.45);
+  --gradient-hero: linear-gradient(160deg, #02060C 0%, #050B14 40%, #0B1A33 100%);
+  --gradient-hero-scrim: radial-gradient(ellipse 85% 52% at 50% 42%, rgb(213 92 77 / 0.12) 0%, transparent 72%);
+  --gradient-hero-horizon: linear-gradient(to top, rgba(5, 11, 20, 0.95) 0%, transparent 100%);
+  --gradient-text-accent: linear-gradient(135deg, #D55C4D 0%, #E07A6C 100%);
+  --hero-aurora-1: #1A3348;
+  --hero-aurora-2: #2F5674;
+  --hero-aurora-3: #D55C4D;
+  --hero-particle-1: #FFFFFF;
+  --hero-particle-2: #5B7F9C;
+  --hero-particle-3: #E07A6C;
+  --hero-vignette: radial-gradient(ellipse 70% 55% at 50% 40%, transparent 0%, rgb(5 11 20 / 0.55) 70%, rgb(5 11 20 / 0.92) 100%);
+}

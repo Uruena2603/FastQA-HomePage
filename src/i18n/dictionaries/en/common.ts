@@ -1,0 +1,15 @@
+export const common = {
+  languageToggleAria: 'Switch language to Spanish',
+  languageToggleTitle: 'Switch to Spanish',
+  themeToggleLight: 'Switch to light mode',
+  themeToggleDark: 'Switch to dark mode',
+  openMenu: 'Open menu',
+  closeMenu: 'Close menu',
+  backToHome: 'Back to home',
+  requestDemo: 'Request Demo',
+  explore: 'Explore',
+  learnMore: 'Learn more',
+  sendMessage: 'Send message',
+  contactUs: 'Contact us',
+  loading: 'Loading…',
+} as const

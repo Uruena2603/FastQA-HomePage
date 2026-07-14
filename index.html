@@ -1,16 +1,59 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FastQA Home Page</title>
-    <link rel="icon" type="image/svg+xml" href="./logo.svg" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#223E54" />
+    <meta name="author" content="FastQA" />
+    <meta
+      name="description"
+      content="FastQA — automatización de pruebas, testing de rendimiento e integración CI/CD. Asegura la calidad de tu software con expertise en QA."
+    />
+    <meta
+      name="keywords"
+      content="FastQA, testing automatizado, QA, Cypress, Playwright, Selenium, CI/CD, automatización de pruebas"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://fastqa.dev/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="FastQA" />
+    <meta property="og:title" content="FastQA — Automatiza tus pruebas, potencia tu software" />
+    <meta
+      property="og:description"
+      content="Soluciones avanzadas de testing automatizado para estabilizar, asegurar y acelerar tus releases."
+    />
+    <meta property="og:url" content="https://fastqa.dev/" />
+    <meta property="og:image" content="https://fastqa.dev/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FastQA — Automatiza tus pruebas, potencia tu software" />
+    <meta
+      name="twitter:description"
+      content="Soluciones avanzadas de testing automatizado para estabilizar, asegurar y acelerar tus releases."
+    />
+    <meta name="twitter:image" content="https://fastqa.dev/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>FastQA — Automatiza tus pruebas, potencia tu software</title>
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem('fastqa-theme')
+          var dark =
+            stored === 'dark' ||
+            (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+          if (dark) document.documentElement.classList.add('dark')
+        } catch (_) {}
+      })()
+    </script>
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="./src/main.jsx"></script>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

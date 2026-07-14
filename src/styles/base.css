@@ -1,0 +1,60 @@
+html.lenis,
+html.lenis-smooth {
+  scroll-behavior: auto;
+}
+
+html.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-light) transparent;
+  background-color: var(--color-bg-primary);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-light);
+  border-radius: 4px;
+}
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-text-placeholder);
+}
+
+::selection {
+  background-color: rgb(213 92 77 / 0.28);
+  color: var(--color-text-primary);
+}
+
+.hero-title-glow {
+  text-shadow: 0 1px 2px rgb(34 62 84 / 0.08);
+}
+
+.dark .hero-title-glow {
+  text-shadow:
+    0 1px 2px rgb(5 10 18 / 0.95),
+    0 8px 32px rgb(213 92 77 / 0.18);
+}
+
+.text-gradient-accent {
+  background: var(--gradient-text-accent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

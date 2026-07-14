@@ -1,35 +1,32 @@
-# 🏆 FastQA Home Page
+# FastQA
 
-Bienvenido al repositorio de **FastQA Home Page**, la página principal de FastQA. Este sitio web representa la identidad y los servicios de nuestra empresa de testing automatizado, proporcionando información clave sobre nuestra misión, visión y soluciones en aseguramiento de calidad de software.
+Landing de **FastQA** — quality engineering, pruebas automatizadas y ciberseguridad aplicada a software.
 
----
+## Stack
 
-## 📖 Sobre el Proyecto
+- React 19 + TypeScript · Vite 8 · Tailwind CSS 4
+- Framer Motion + Lenis · react-router-dom · react-helmet-async
+- **React Bits** (Aurora, Particles, DecryptedText, SpotlightCard, LogoLoop) + `ogl` + `motion`
+- **i18n ES ↔ EN** (`LanguageProvider` + toggle en Navbar; patrón Prosavis)
 
-FastQA es una empresa enfocada en **automatización de pruebas de software**, utilizando tecnologías modernas como **Cypress, Selenium y Appium** para garantizar la calidad de las aplicaciones web y móviles. La página web tiene como objetivo:
+Ver [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md) para tokens, assets, tema dual e i18n.
 
-- Presentar la identidad de FastQA.
-- Explicar nuestros servicios y beneficios.
-- Ofrecer un punto de contacto para clientes potenciales.
-- Proporcionar recursos sobre testing automatizado.
-- Servir como plataforma para publicaciones y noticias sobre la industria del testing.
-- Facilitar la inscripción a nuestros webinars y capacitaciones.
+## Assets
 
----
+- **Logo oficial:** [`public/logo.png`](./public/logo.png) — único lockup de marca (ver `BRAND_ASSETS.logo`)
+- Trust: `public/assets/client-logo-*.svg` + `public/assets/clients/*`
+- Legacy marks (no usar): `public/assets/logo.svg`, `logo-white.svg`
 
-## 🚀 Tecnologías Utilizadas
+## Scripts
 
-Para la construcción de la página, utilizamos:
+```bash
+npm install
+npm run dev
+npm run build
+npm run lint
+npm run preview
+```
 
-- **React.js** para una interfaz modular y eficiente.
-- **CSS3** para estilos personalizados y diseño responsivo.
-- **JavaScript** para interactividad (en caso de ser necesario).
+## Deploy
 
----
-
-## 👥 Contribuidores
-
-El proyecto está desarrollado por:
-
-- **Nicolás Ceballos Brito** - [GitHub Profile](https://github.com/Nico2603)
-- **Juan Alejandro Urueña Serna** - [GitHub Profile](https://github.com/Uruena2603)
+Vercel (`vercel.json` SPA rewrite). Output: `dist/`.

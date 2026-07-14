@@ -1,0 +1,15 @@
+export const common = {
+  languageToggleAria: 'Cambiar idioma a inglés',
+  languageToggleTitle: 'Cambiar a inglés',
+  themeToggleLight: 'Activar modo claro',
+  themeToggleDark: 'Activar modo oscuro',
+  openMenu: 'Abrir menú',
+  closeMenu: 'Cerrar menú',
+  backToHome: 'Volver al inicio',
+  requestDemo: 'Solicitar Demo',
+  explore: 'Explorar',
+  learnMore: 'Más información',
+  sendMessage: 'Enviar mensaje',
+  contactUs: 'Contáctanos',
+  loading: 'Cargando…',
+} as const
